@@ -6,7 +6,7 @@ import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
-import com.example.geminiai.adapter.GeminiAdapter
+import com.example.geminiai.view.adapter.GeminiAdapter
 import com.example.geminiai.databinding.ActivityMainBinding
 import com.example.geminiai.helper.DbHelper.Companion.initDb
 import com.example.geminiai.helper.ThemeHelper

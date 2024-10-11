@@ -1,4 +1,4 @@
-package com.example.geminiai.adapter
+package com.example.geminiai.view.adapter
 
 import android.annotation.SuppressLint
 import android.view.Gravity
